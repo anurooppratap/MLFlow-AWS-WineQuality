@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/Python/MLOPS/MLFlow%20with%20AWS%20Cloud/mlruns/0/6a6c73988d494cf7b2f2665f46d297cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a6c73988d494cf7b2f2665f46d297cd
+run_name: traveling-fish-412
+run_uuid: 6a6c73988d494cf7b2f2665f46d297cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733404934405
+status: 1
+tags: []
+user_id: HP
